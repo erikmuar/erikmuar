@@ -1,5 +1,9 @@
-![Hola soy Erik](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
-# 🌟 ¡Hola, soy Erik! 👋
+<div style="position: relative; text-align: center; width: 100%;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF Animado" style="width: 100%; height: auto;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3em; font-weight: bold;">
+    🌟 ¡Hola, soy Erik! 👋
+  </h1>
+</div>
 
 ¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador de aplicaciones multiplataforma** apasionado por la tecnología y siempre en busca de nuevos desafíos. 🚀
 
