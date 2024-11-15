@@ -24,7 +24,7 @@
 
 
 ## 📈 **Estadísticas de GitHub**
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Erik&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=erikmuar&show_icons=true&theme=radical)
 
 ---
 
