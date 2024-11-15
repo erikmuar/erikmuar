@@ -29,7 +29,7 @@
 ---
 
 ## 📫 **Conéctate conmigo**
-- 💼 [LinkedIn]([https://www.linkedin.com/in/erik/](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/)
 - 📧 **Email:** erikmuar91@gmail.com
 
 ---
