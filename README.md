@@ -22,12 +22,6 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
-1. **[Gestor de Tareas](#)** - ✅ Una aplicación para gestionar tareas multiplataforma con Java y MySQL.
-2. **[Portafolio Personal](#)** - 🌐 Sitio web responsivo en HTML y CSS con detalles sobre mi experiencia.
-3. **[Analizador de Datos](#)** - 📊 Herramienta en Python para analizar y visualizar grandes volúmenes de datos.
-
----
 
 ## 📈 **Estadísticas de GitHub**
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
@@ -35,9 +29,8 @@
 ---
 
 ## 📫 **Conéctate conmigo**
-- 💼 [LinkedIn](https://www.linkedin.com/in/erik/)
-- 🌐 [Portafolio](https://tuportafolio.com)
-- 📧 **Email:** erik@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/erik/](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/))
+- 📧 **Email:** erikmuar91@gmail.com
 
 ---
 
