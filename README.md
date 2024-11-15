@@ -1,4 +1,5 @@
-# 🌟 ![Hola soy Erik](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) ¡Hola, soy Erik! 👋
+![Hola soy Erik](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
+# 🌟 ¡Hola, soy Erik! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador de aplicaciones multiplataforma** apasionado por la tecnología y siempre en busca de nuevos desafíos. 🚀
 
