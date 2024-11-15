@@ -14,14 +14,23 @@
 
 ## 🛠️ **Tecnologías y Herramientas**
 - **Lenguajes:**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
 - **Bases de Datos:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- **Frameworks:**  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 - **Herramientas de desarrollo:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 
 ## 📈 **Estadísticas de GitHub**
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=erikmuar&show_icons=true&theme=radical)
@@ -29,8 +38,8 @@
 ---
 
 ## 📫 **Conéctate conmigo**
-- 💼 [LinkedIn](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/)
-- 📧 **Email:** erikmuar91@gmail.com
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erik_Mu%C3%B1oz_Arias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/)
+- 📧 [![Email](https://img.shields.io/badge/Email-erikmuar91%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikmuar91@gmail.com)
 
 ---
 
