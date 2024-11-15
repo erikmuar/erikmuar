@@ -42,6 +42,11 @@
 
 ---
 
+## 📊 Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=erikmuar&layout=compact&theme=radical)
+
+
 ## 📫 **Conéctate conmigo**
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erik_Mu%C3%B1oz_Arias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-mu%C3%B1oz-arias/)
 - 📧 [![Email](https://img.shields.io/badge/Email-erikmuar91%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikmuar91@gmail.com)
