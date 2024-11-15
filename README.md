@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🌟 ¡Hola, soy Erik! 👋
 
-<!--
-**erikmuar/erikmuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador de aplicaciones multiplataforma** apasionado por la tecnología y siempre en busca de nuevos desafíos. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 **Acerca de mí**
+- 💻 **Desarrollo aplicaciones** con tecnologías modernas y enfoque multiplataforma.
+- 🌱 Actualmente aprendiendo más sobre **optimización de bases de datos y desarrollo web avanzado**.
+- 🔭 Trabajando en proyectos que combinan diseño, funcionalidad y rendimiento.
+- 🎯 Mi objetivo: Crear soluciones tecnológicas que impacten positivamente en las personas.
+
+---
+
+## 🛠️ **Tecnologías y Herramientas**
+- **Lenguajes:**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Bases de Datos:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Herramientas de desarrollo:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 **Proyectos Destacados**
+1. **[Gestor de Tareas](#)** - ✅ Una aplicación para gestionar tareas multiplataforma con Java y MySQL.
+2. **[Portafolio Personal](#)** - 🌐 Sitio web responsivo en HTML y CSS con detalles sobre mi experiencia.
+3. **[Analizador de Datos](#)** - 📊 Herramienta en Python para analizar y visualizar grandes volúmenes de datos.
+
+---
+
+## 📈 **Estadísticas de GitHub**
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+---
+
+## 📫 **Conéctate conmigo**
+- 💼 [LinkedIn](https://www.linkedin.com/in/erik/)
+- 🌐 [Portafolio](https://tuportafolio.com)
+- 📧 **Email:** erik@example.com
+
+---
+
+⚡ **"La tecnología no solo cambia cómo hacemos las cosas, cambia lo que podemos hacer."** 🌍
